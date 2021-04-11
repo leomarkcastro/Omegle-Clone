@@ -1,4 +1,4 @@
-#Omegle Clone
+# Omegle Clone
 
 This is an 'attempt' to clone omegle by creating an interface in React (global states handled by Redux) and where the backend APIs are from the omegle website itself(sniffed by using mitmproxy)
 
