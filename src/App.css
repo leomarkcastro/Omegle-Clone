@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Open+Sans&display=swap');
+
+:root{
+  --color-1: #000;
+  --color-2: #000;
+  --color-3: #000;
+  --color-4: #000;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+
+  font-family: 'Open Sans', sans-serif;
+}

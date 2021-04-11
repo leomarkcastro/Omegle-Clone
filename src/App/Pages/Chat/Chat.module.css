@@ -1,0 +1,16 @@
+.Main{
+    padding: 15px;
+}
+
+.Disconnect{
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+
+    
+    border: 1px solid rgba(0,0,0,0);
+}
+
+.Disconnect:hover{
+    border: 1px solid black
+}

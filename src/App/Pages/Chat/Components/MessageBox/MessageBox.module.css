@@ -1,0 +1,11 @@
+.Container{
+    display: flex;
+}
+
+.You{
+    color: blue;
+}
+
+.Stranger{
+    color: red;
+}
