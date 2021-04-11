@@ -13,3 +13,7 @@ This is an 'attempt' to clone omegle by creating an interface in React (global s
 - Upon starting of a succesful chat, will crash at approximately 30 seconds.
 - Crashes 50% of the time
 - If the chat ended, you need to refresh the whole page
+
+## Where are the API calls?
+
+- I dumped them here https://pastebin.pl/view/ff52ca31
